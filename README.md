@@ -16,4 +16,4 @@ Supervisor : Mr. Stephane N'ZI
 
 we used google collab to run the codes inside the notebook
 
-if you need the data used, please send a mail to : _aziz.coulibaly@ensea.edu.ci_ or _issa.djibrilla@ensea.edu.ci_
+if you need the questionnaire and the data used, please send a mail to : _aziz.coulibaly@ensea.edu.ci_ or _issa.djibrilla@ensea.edu.ci_
