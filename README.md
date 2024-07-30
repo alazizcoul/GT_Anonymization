@@ -6,7 +6,7 @@ Anonymization: GT
   
 By Al Aziz N'Golo Coulibaly & Issa Djibrilla
 
-  Economists Statisticians at ENSEA (Ecole Nationale Superieure de Statistique et d'Economie Appliquée)
+  Economists Statisticians at ENSEA (Ecole Nationale Superieure de Statistique et d'Economie Appliquée,  Abidjan-Côte d'Ivoire)
 
   
 Supervisor : Mr. Stephane N'ZI
