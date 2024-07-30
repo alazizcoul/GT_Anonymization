@@ -1,5 +1,11 @@
 # GT_Anonymization
-Anonymization: GT
+Anonymization: GT (Groupe de Travail)
+
+_PROPOSAL FOR A PROCEDURE FOR THE ANONYMISATION OF SURVEY DATA :_
+    
+    __CASE OF THE ACADEMIC SURVEY ON YOUTH WELFARE AND__
+    
+        __ECONOMIC OPPORTUNITIES IN KORHOGO (2024)__
 
 
   _This is a study on data anonymization realised_
