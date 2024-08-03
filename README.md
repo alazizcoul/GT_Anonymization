@@ -7,7 +7,7 @@ _PROPOSAL FOR A PROCEDURE FOR THE ANONYMISATION OF SURVEY DATA : CASE OF THE ACA
 
   _This is a study on data anonymization realised_
   
-By Al Aziz N'Golo Coulibaly & Issa Djibrilla
+By Al Aziz N'Golo COULIBALY & Issa DJIBRILLA
 
   Economists Statisticians at ENSEA (Ecole Nationale Superieure de Statistique et d'Economie Appliquée,  Abidjan-Côte d'Ivoire)
 
